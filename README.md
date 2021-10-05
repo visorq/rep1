@@ -27,3 +27,9 @@ git commit -m "First commit"
 <br />
 
 git push -u origin master
+
+
+<br />
+<br />
+
+git pull
